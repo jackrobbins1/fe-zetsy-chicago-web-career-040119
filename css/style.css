@@ -49,3 +49,7 @@ p {
 .press-row img:hover{
 	border: 4px solid rgb(111,127,122);
 }
+
+.copy-r {
+	font-size: 0.8em;
+}
