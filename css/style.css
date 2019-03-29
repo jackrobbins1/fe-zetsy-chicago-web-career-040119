@@ -52,4 +52,6 @@ p {
 
 .copy-r {
 	font-size: 0.8em;
+	color: #555;
+	text-align: right;
 }
