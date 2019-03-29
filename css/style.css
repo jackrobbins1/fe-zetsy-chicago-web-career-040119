@@ -45,3 +45,7 @@ p {
 .press-row img {
 	border: 4px solid #cccccc;
 }
+
+.press-row img:hover{
+	border: 4px solid #cccccc;
+}
