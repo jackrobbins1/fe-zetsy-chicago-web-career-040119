@@ -22,7 +22,7 @@ body {
 h1 {
 	font-size: 40px;
 	color: #a1aca9;
-	margin: .67em 0 0 0;
+	/* margin: .67em 0 0 0; */
 	border-bottom: 1px solid #eee
 }
 
